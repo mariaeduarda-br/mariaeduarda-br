@@ -1,5 +1,13 @@
 <h2 align="center">Olá! Eu sou a Maria Eduarda Brandão 🙋🏾</h2>
 
+<h3>Um pouco sobre mim:</h3>
+<div>
+  <p>🐱‍💻 Formada em Desenvolvimento de Sistemas/SENAI, encontrei na programação minha verdadeira paixão. Estou em uma jornada constante para expandir meus conhecimentos e aprimorar minhas habilidades, especialmente para alcançar minha tão almejada posição como desenvolvedora front-end. Esta área desperta minha curiosidade e dedicação, e estou constantemente me aprofundando nesse universo para me destacar nesse campo tão dinâmico e criativo.</p>
+
+<p>🏖️ Além do meu interesse profissional, sou encantada pela serenidade e beleza dos lugares à beira-mar.</p>
+
+<p>📚 Este é o combustível que impulsiona minha jornada, sempre em busca de alcançar novos patamares em minha carreira profissional enquanto desfruto das coisas que mais amo na vida.</p>
+</div>
 <h3>Linguagens e ferramentas:</h3>
 <div style="display: inline_block"><br>
   
@@ -29,14 +37,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />              
 </div>
 
-<h3>Um pouco sobre mim:</h3>
-<div>
-  <p>🐱‍💻 Formada em Desenvolvimento de Sistemas/SENAI, encontrei na programação minha verdadeira paixão. Estou em uma jornada constante para expandir meus conhecimentos e aprimorar minhas habilidades, especialmente para alcançar minha tão almejada posição como desenvolvedora front-end. Esta área desperta minha curiosidade e dedicação, e estou constantemente me aprofundando nesse universo para me destacar nesse campo tão dinâmico e criativo.</p>
 
-<p>🏖️ Além do meu interesse profissional, sou encantada pela serenidade e beleza dos lugares à beira-mar.</p>
-
-<p>📚 Este é o combustível que impulsiona minha jornada, sempre em busca de alcançar novos patamares em minha carreira profissional enquanto desfruto das coisas que mais amo na vida.</p>
-</div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-br" />
