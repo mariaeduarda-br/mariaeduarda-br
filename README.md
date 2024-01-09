@@ -2,7 +2,7 @@
 
 <h3>Um pouco sobre mim:</h3>
 <div>
-  <p>🐱‍💻 Formada em Desenvolvimento de Sistemas/SENAI, encontrei na programação minha verdadeira paixão. Estou em uma jornada constante para expandir meus conhecimentos e aprimorar minhas habilidades, especialmente para alcançar minha tão almejada posição como desenvolvedora front-end. Esta área desperta minha curiosidade e dedicação, e estou constantemente me aprofundando nesse universo para me destacar nesse campo tão dinâmico e criativo.</p>
+  <p>🤩 Formada em Desenvolvimento de Sistemas/SENAI, encontrei na programação minha verdadeira paixão. Estou em uma jornada constante para expandir meus conhecimentos e aprimorar minhas habilidades, especialmente para alcançar minha tão almejada posição como desenvolvedora front-end. Esta área desperta minha curiosidade e dedicação, e estou constantemente me aprofundando nesse universo para me destacar nesse campo tão dinâmico e criativo.</p>
 
 <p>🏖️ Além do meu interesse profissional, sou encantada pela serenidade e beleza dos lugares à beira-mar.</p>
 
@@ -48,5 +48,6 @@
 <div> 
   <a href="https://www.instagram.com/eduarda.brand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-brandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://t.me/mariaeduarda474" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
 </div>
 
