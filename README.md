@@ -31,18 +31,18 @@
 
 <h3>Um pouco sobre mim:</h3>
 <div>
-  <p>Sou formada em Desenvolvimento de Sistemas/SENAI, mergulhei de cabeça na área da programação e encontrei minha verdadeira paixão. Estou em uma jornada constante para expandir meus conhecimentos e aprimorar minhas habilidades, especialmente focada em alcançar minha tão almejada posição como desenvolvedora front-end. Esta área desperta minha curiosidade e dedicação, e estou constantemente me aprofundando nesse universo para me destacar nesse campo tão dinâmico e criativo.</p>
+  <p>🐱‍💻 Formada em Desenvolvimento de Sistemas/SENAI, encontrei na programação minha verdadeira paixão. Estou em uma jornada constante para expandir meus conhecimentos e aprimorar minhas habilidades, especialmente para alcançar minha tão almejada posição como desenvolvedora front-end. Esta área desperta minha curiosidade e dedicação, e estou constantemente me aprofundando nesse universo para me destacar nesse campo tão dinâmico e criativo.</p>
 
-<p>Além do meu interesse profissional, sou encantada pela serenidade e beleza dos lugares à beira-mar.</p>
+<p>🏖️ Além do meu interesse profissional, sou encantada pela serenidade e beleza dos lugares à beira-mar.</p>
 
-<p>Este é o combustível que impulsiona minha jornada, sempre em busca de alcançar novos patamares em minha carreira profissional enquanto desfruto das coisas que mais amo na vida.</p>
+<p>📚 Este é o combustível que impulsiona minha jornada, sempre em busca de alcançar novos patamares em minha carreira profissional enquanto desfruto das coisas que mais amo na vida.</p>
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-br" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-br" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaeduarda-br&layout=compact&langs_count=8&card_width=320" />
+  <img height=140 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaeduarda-br&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 <h3>Sociais para contato:</h3>
