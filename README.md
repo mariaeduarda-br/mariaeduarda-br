@@ -37,8 +37,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />              
 </div>
 
-https://www.instagram.com/eduarda.brand/
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=mariaeduarda-br" />
 </a>
@@ -49,7 +47,6 @@ https://www.instagram.com/eduarda.brand/
 <h3>Sociais para contato:</h3>
 <div> 
   <a href="https://www.instagram.com/eduarda.brand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:eduarda.js.brandao@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-brandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
