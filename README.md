@@ -9,7 +9,7 @@
 <p>📚 Este é o combustível que impulsiona minha jornada, sempre em busca de alcançar novos patamares em minha carreira profissional enquanto desfruto das coisas que mais amo na vida.</p>
 </div>
 <h3>Linguagens e ferramentas:</h3>
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   
   <img align="center" alt="Eduarda-Html" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
@@ -46,7 +46,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mariaeduarda-br&layout=compact&langs_count=8&card_width=320" />
 </a>
 
-<h3>Sociais para contato:</h3>
+<h3>Redes sociais para contato:</h3>
 <div> 
   <a href="https://www.instagram.com/eduarda.brand" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-eduarda-brandao/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
