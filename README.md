@@ -35,6 +35,10 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Eduarda-Nodejs" height="30" width="40"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />              
+  <img align="center" alt="Eduarda-python" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />              
+  <img align="center" alt="Eduarda-SQL" height="30" width="40"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />              
 </div>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
