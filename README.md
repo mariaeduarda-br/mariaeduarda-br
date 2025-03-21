@@ -1,4 +1,4 @@
-<h2 align="center">Olá! Eu sou a Maria Eduarda Brandão 🙋🏾</h2>
+<h2 align="center">Olá! Eu sou a Duda</h2>
 
 <h3>Um pouco sobre mim:</h3>
 <div>
